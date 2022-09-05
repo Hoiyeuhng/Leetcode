@@ -1,3 +1,6 @@
+import java.util.HashSet;
+import java.util.Set;
+
 class Solution {
     public boolean findSubarrays(int[] nums) {
       if (nums.length == 2) {
